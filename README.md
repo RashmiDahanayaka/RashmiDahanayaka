@@ -1,4 +1,8 @@
-# Hi 👋 My name is Rashmi Dahanayaka
+# Hi <h1 align="left">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand"/>
+  
+</h1> My name is Rashmi Dahanayaka
+
 
 I am a graduate student at SLIIT.  
 
